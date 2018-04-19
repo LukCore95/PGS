@@ -117,14 +117,71 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="&gt;&gt;buttonName.Name" xml:space="preserve">
+    <value>buttonName</value>
+  </data>
+  <data name="&gt;&gt;buttonName.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;buttonName.Parent" xml:space="preserve">
+    <value>panelName</value>
+  </data>
+  <data name="&gt;&gt;buttonName.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;labelName.Name" xml:space="preserve">
+    <value>labelName</value>
+  </data>
+  <data name="&gt;&gt;labelName.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labelName.Parent" xml:space="preserve">
+    <value>panelName</value>
+  </data>
+  <data name="&gt;&gt;labelName.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;textBoxName.Name" xml:space="preserve">
+    <value>textBoxName</value>
+  </data>
+  <data name="&gt;&gt;textBoxName.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxName.Parent" xml:space="preserve">
+    <value>panelName</value>
+  </data>
+  <data name="&gt;&gt;textBoxName.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="panelName.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 12</value>
+  </data>
+  <data name="panelName.Size" type="System.Drawing.Size, System.Drawing">
+    <value>560, 138</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="panelName.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;panelName.Name" xml:space="preserve">
+    <value>panelName</value>
+  </data>
+  <data name="&gt;&gt;panelName.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panelName.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;panelName.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
   <data name="buttonName.Location" type="System.Drawing.Point, System.Drawing">
     <value>18, 41</value>
   </data>
   <data name="buttonName.Size" type="System.Drawing.Size, System.Drawing">
     <value>526, 82</value>
   </data>
-  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="buttonName.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
   </data>
@@ -191,25 +248,857 @@
   <data name="&gt;&gt;textBoxName.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
-  <data name="panelName.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 12</value>
+  <data name="&gt;&gt;buttonSurname.Name" xml:space="preserve">
+    <value>buttonSurname</value>
   </data>
-  <data name="panelName.Size" type="System.Drawing.Size, System.Drawing">
-    <value>560, 138</value>
+  <data name="&gt;&gt;buttonSurname.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="panelName.TabIndex" type="System.Int32, mscorlib">
+  <data name="&gt;&gt;buttonSurname.Parent" xml:space="preserve">
+    <value>panelSurname</value>
+  </data>
+  <data name="&gt;&gt;buttonSurname.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
-  <data name="&gt;&gt;panelName.Name" xml:space="preserve">
-    <value>panelName</value>
+  <data name="&gt;&gt;textBoxSurname.Name" xml:space="preserve">
+    <value>textBoxSurname</value>
   </data>
-  <data name="&gt;&gt;panelName.Type" xml:space="preserve">
+  <data name="&gt;&gt;textBoxSurname.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxSurname.Parent" xml:space="preserve">
+    <value>panelSurname</value>
+  </data>
+  <data name="&gt;&gt;textBoxSurname.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;labelSurname.Name" xml:space="preserve">
+    <value>labelSurname</value>
+  </data>
+  <data name="&gt;&gt;labelSurname.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labelSurname.Parent" xml:space="preserve">
+    <value>panelSurname</value>
+  </data>
+  <data name="&gt;&gt;labelSurname.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="panelSurname.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 12</value>
+  </data>
+  <data name="panelSurname.Size" type="System.Drawing.Size, System.Drawing">
+    <value>560, 138</value>
+  </data>
+  <data name="panelSurname.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;panelSurname.Name" xml:space="preserve">
+    <value>panelSurname</value>
+  </data>
+  <data name="&gt;&gt;panelSurname.Type" xml:space="preserve">
     <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;panelName.Parent" xml:space="preserve">
+  <data name="&gt;&gt;panelSurname.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="&gt;&gt;panelName.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;panelSurname.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="buttonSurname.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="buttonSurname.Location" type="System.Drawing.Point, System.Drawing">
+    <value>18, 42</value>
+  </data>
+  <data name="buttonSurname.Size" type="System.Drawing.Size, System.Drawing">
+    <value>526, 82</value>
+  </data>
+  <data name="buttonSurname.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="buttonSurname.Text" xml:space="preserve">
+    <value>Dalej &gt;</value>
+  </data>
+  <data name="&gt;&gt;buttonSurname.Name" xml:space="preserve">
+    <value>buttonSurname</value>
+  </data>
+  <data name="&gt;&gt;buttonSurname.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;buttonSurname.Parent" xml:space="preserve">
+    <value>panelSurname</value>
+  </data>
+  <data name="&gt;&gt;buttonSurname.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="textBoxSurname.Location" type="System.Drawing.Point, System.Drawing">
+    <value>77, 10</value>
+  </data>
+  <data name="textBoxSurname.Size" type="System.Drawing.Size, System.Drawing">
+    <value>467, 20</value>
+  </data>
+  <data name="textBoxSurname.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;textBoxSurname.Name" xml:space="preserve">
+    <value>textBoxSurname</value>
+  </data>
+  <data name="&gt;&gt;textBoxSurname.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxSurname.Parent" xml:space="preserve">
+    <value>panelSurname</value>
+  </data>
+  <data name="&gt;&gt;textBoxSurname.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="labelSurname.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="labelSurname.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="labelSurname.Location" type="System.Drawing.Point, System.Drawing">
+    <value>15, 13</value>
+  </data>
+  <data name="labelSurname.Size" type="System.Drawing.Size, System.Drawing">
+    <value>56, 13</value>
+  </data>
+  <data name="labelSurname.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="labelSurname.Text" xml:space="preserve">
+    <value>Nazwisko:</value>
+  </data>
+  <data name="&gt;&gt;labelSurname.Name" xml:space="preserve">
+    <value>labelSurname</value>
+  </data>
+  <data name="&gt;&gt;labelSurname.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labelSurname.Parent" xml:space="preserve">
+    <value>panelSurname</value>
+  </data>
+  <data name="&gt;&gt;labelSurname.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;buttonAddress.Name" xml:space="preserve">
+    <value>buttonAddress</value>
+  </data>
+  <data name="&gt;&gt;buttonAddress.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;buttonAddress.Parent" xml:space="preserve">
+    <value>panelAddress</value>
+  </data>
+  <data name="&gt;&gt;buttonAddress.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;textBoxAddress.Name" xml:space="preserve">
+    <value>textBoxAddress</value>
+  </data>
+  <data name="&gt;&gt;textBoxAddress.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxAddress.Parent" xml:space="preserve">
+    <value>panelAddress</value>
+  </data>
+  <data name="&gt;&gt;textBoxAddress.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;labelAddress.Name" xml:space="preserve">
+    <value>labelAddress</value>
+  </data>
+  <data name="&gt;&gt;labelAddress.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labelAddress.Parent" xml:space="preserve">
+    <value>panelAddress</value>
+  </data>
+  <data name="&gt;&gt;labelAddress.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="panelAddress.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 12</value>
+  </data>
+  <data name="panelAddress.Size" type="System.Drawing.Size, System.Drawing">
+    <value>560, 138</value>
+  </data>
+  <data name="panelAddress.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;panelAddress.Name" xml:space="preserve">
+    <value>panelAddress</value>
+  </data>
+  <data name="&gt;&gt;panelAddress.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panelAddress.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;panelAddress.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="buttonAddress.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="buttonAddress.Location" type="System.Drawing.Point, System.Drawing">
+    <value>18, 42</value>
+  </data>
+  <data name="buttonAddress.Size" type="System.Drawing.Size, System.Drawing">
+    <value>526, 82</value>
+  </data>
+  <data name="buttonAddress.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="buttonAddress.Text" xml:space="preserve">
+    <value>Dalej &gt;</value>
+  </data>
+  <data name="&gt;&gt;buttonAddress.Name" xml:space="preserve">
+    <value>buttonAddress</value>
+  </data>
+  <data name="&gt;&gt;buttonAddress.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;buttonAddress.Parent" xml:space="preserve">
+    <value>panelAddress</value>
+  </data>
+  <data name="&gt;&gt;buttonAddress.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="textBoxAddress.Location" type="System.Drawing.Point, System.Drawing">
+    <value>124, 10</value>
+  </data>
+  <data name="textBoxAddress.Size" type="System.Drawing.Size, System.Drawing">
+    <value>420, 20</value>
+  </data>
+  <data name="textBoxAddress.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;textBoxAddress.Name" xml:space="preserve">
+    <value>textBoxAddress</value>
+  </data>
+  <data name="&gt;&gt;textBoxAddress.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxAddress.Parent" xml:space="preserve">
+    <value>panelAddress</value>
+  </data>
+  <data name="&gt;&gt;textBoxAddress.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="labelAddress.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="labelAddress.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="labelAddress.Location" type="System.Drawing.Point, System.Drawing">
+    <value>15, 13</value>
+  </data>
+  <data name="labelAddress.Size" type="System.Drawing.Size, System.Drawing">
+    <value>103, 13</value>
+  </data>
+  <data name="labelAddress.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="labelAddress.Text" xml:space="preserve">
+    <value>Adres zamieszkania:</value>
+  </data>
+  <data name="&gt;&gt;labelAddress.Name" xml:space="preserve">
+    <value>labelAddress</value>
+  </data>
+  <data name="&gt;&gt;labelAddress.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labelAddress.Parent" xml:space="preserve">
+    <value>panelAddress</value>
+  </data>
+  <data name="&gt;&gt;labelAddress.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;buttonPhoneNumber.Name" xml:space="preserve">
+    <value>buttonPhoneNumber</value>
+  </data>
+  <data name="&gt;&gt;buttonPhoneNumber.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;buttonPhoneNumber.Parent" xml:space="preserve">
+    <value>panelPhoneNumber</value>
+  </data>
+  <data name="&gt;&gt;buttonPhoneNumber.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;textBoxPhoneNumber.Name" xml:space="preserve">
+    <value>textBoxPhoneNumber</value>
+  </data>
+  <data name="&gt;&gt;textBoxPhoneNumber.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxPhoneNumber.Parent" xml:space="preserve">
+    <value>panelPhoneNumber</value>
+  </data>
+  <data name="&gt;&gt;textBoxPhoneNumber.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;labelPhoneNumber.Name" xml:space="preserve">
+    <value>labelPhoneNumber</value>
+  </data>
+  <data name="&gt;&gt;labelPhoneNumber.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labelPhoneNumber.Parent" xml:space="preserve">
+    <value>panelPhoneNumber</value>
+  </data>
+  <data name="&gt;&gt;labelPhoneNumber.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="panelPhoneNumber.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 12</value>
+  </data>
+  <data name="panelPhoneNumber.Size" type="System.Drawing.Size, System.Drawing">
+    <value>560, 138</value>
+  </data>
+  <data name="panelPhoneNumber.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;panelPhoneNumber.Name" xml:space="preserve">
+    <value>panelPhoneNumber</value>
+  </data>
+  <data name="&gt;&gt;panelPhoneNumber.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panelPhoneNumber.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;panelPhoneNumber.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="buttonPhoneNumber.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="buttonPhoneNumber.Location" type="System.Drawing.Point, System.Drawing">
+    <value>18, 42</value>
+  </data>
+  <data name="buttonPhoneNumber.Size" type="System.Drawing.Size, System.Drawing">
+    <value>526, 82</value>
+  </data>
+  <data name="buttonPhoneNumber.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="buttonPhoneNumber.Text" xml:space="preserve">
+    <value>Dalej &gt;</value>
+  </data>
+  <data name="&gt;&gt;buttonPhoneNumber.Name" xml:space="preserve">
+    <value>buttonPhoneNumber</value>
+  </data>
+  <data name="&gt;&gt;buttonPhoneNumber.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;buttonPhoneNumber.Parent" xml:space="preserve">
+    <value>panelPhoneNumber</value>
+  </data>
+  <data name="&gt;&gt;buttonPhoneNumber.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="textBoxPhoneNumber.Location" type="System.Drawing.Point, System.Drawing">
+    <value>103, 10</value>
+  </data>
+  <data name="textBoxPhoneNumber.Size" type="System.Drawing.Size, System.Drawing">
+    <value>441, 20</value>
+  </data>
+  <data name="textBoxPhoneNumber.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;textBoxPhoneNumber.Name" xml:space="preserve">
+    <value>textBoxPhoneNumber</value>
+  </data>
+  <data name="&gt;&gt;textBoxPhoneNumber.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxPhoneNumber.Parent" xml:space="preserve">
+    <value>panelPhoneNumber</value>
+  </data>
+  <data name="&gt;&gt;textBoxPhoneNumber.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="labelPhoneNumber.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="labelPhoneNumber.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="labelPhoneNumber.Location" type="System.Drawing.Point, System.Drawing">
+    <value>15, 13</value>
+  </data>
+  <data name="labelPhoneNumber.Size" type="System.Drawing.Size, System.Drawing">
+    <value>82, 13</value>
+  </data>
+  <data name="labelPhoneNumber.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="labelPhoneNumber.Text" xml:space="preserve">
+    <value>Numer telefonu:</value>
+  </data>
+  <data name="&gt;&gt;labelPhoneNumber.Name" xml:space="preserve">
+    <value>labelPhoneNumber</value>
+  </data>
+  <data name="&gt;&gt;labelPhoneNumber.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labelPhoneNumber.Parent" xml:space="preserve">
+    <value>panelPhoneNumber</value>
+  </data>
+  <data name="&gt;&gt;labelPhoneNumber.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;buttonShowData.Name" xml:space="preserve">
+    <value>buttonShowData</value>
+  </data>
+  <data name="&gt;&gt;buttonShowData.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;buttonShowData.Parent" xml:space="preserve">
+    <value>panelOptions</value>
+  </data>
+  <data name="&gt;&gt;buttonShowData.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;buttonCorrectData.Name" xml:space="preserve">
+    <value>buttonCorrectData</value>
+  </data>
+  <data name="&gt;&gt;buttonCorrectData.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;buttonCorrectData.Parent" xml:space="preserve">
+    <value>panelOptions</value>
+  </data>
+  <data name="&gt;&gt;buttonCorrectData.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;groupBoxSelectDataToCorect.Name" xml:space="preserve">
+    <value>groupBoxSelectDataToCorect</value>
+  </data>
+  <data name="&gt;&gt;groupBoxSelectDataToCorect.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBoxSelectDataToCorect.Parent" xml:space="preserve">
+    <value>panelOptions</value>
+  </data>
+  <data name="&gt;&gt;groupBoxSelectDataToCorect.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="panelOptions.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 12</value>
+  </data>
+  <data name="panelOptions.Size" type="System.Drawing.Size, System.Drawing">
+    <value>560, 138</value>
+  </data>
+  <data name="panelOptions.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="panelOptions.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;panelOptions.Name" xml:space="preserve">
+    <value>panelOptions</value>
+  </data>
+  <data name="&gt;&gt;panelOptions.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panelOptions.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;panelOptions.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="buttonShowData.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="buttonShowData.Location" type="System.Drawing.Point, System.Drawing">
+    <value>404, 26</value>
+  </data>
+  <data name="buttonShowData.Size" type="System.Drawing.Size, System.Drawing">
+    <value>140, 92</value>
+  </data>
+  <data name="buttonShowData.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="buttonShowData.Text" xml:space="preserve">
+    <value>Wyświetl dane &gt;</value>
+  </data>
+  <data name="&gt;&gt;buttonShowData.Name" xml:space="preserve">
+    <value>buttonShowData</value>
+  </data>
+  <data name="&gt;&gt;buttonShowData.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;buttonShowData.Parent" xml:space="preserve">
+    <value>panelOptions</value>
+  </data>
+  <data name="&gt;&gt;buttonShowData.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="buttonCorrectData.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="buttonCorrectData.Location" type="System.Drawing.Point, System.Drawing">
+    <value>248, 26</value>
+  </data>
+  <data name="buttonCorrectData.Size" type="System.Drawing.Size, System.Drawing">
+    <value>140, 92</value>
+  </data>
+  <data name="buttonCorrectData.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="buttonCorrectData.Text" xml:space="preserve">
+    <value>&lt; Cofnij</value>
+  </data>
+  <data name="&gt;&gt;buttonCorrectData.Name" xml:space="preserve">
+    <value>buttonCorrectData</value>
+  </data>
+  <data name="&gt;&gt;buttonCorrectData.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;buttonCorrectData.Parent" xml:space="preserve">
+    <value>panelOptions</value>
+  </data>
+  <data name="&gt;&gt;buttonCorrectData.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;radioButtonPhoneNumber.Name" xml:space="preserve">
+    <value>radioButtonPhoneNumber</value>
+  </data>
+  <data name="&gt;&gt;radioButtonPhoneNumber.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;radioButtonPhoneNumber.Parent" xml:space="preserve">
+    <value>groupBoxSelectDataToCorect</value>
+  </data>
+  <data name="&gt;&gt;radioButtonPhoneNumber.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;radioButtonSurname.Name" xml:space="preserve">
+    <value>radioButtonSurname</value>
+  </data>
+  <data name="&gt;&gt;radioButtonSurname.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;radioButtonSurname.Parent" xml:space="preserve">
+    <value>groupBoxSelectDataToCorect</value>
+  </data>
+  <data name="&gt;&gt;radioButtonSurname.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;radioButtonAddress.Name" xml:space="preserve">
+    <value>radioButtonAddress</value>
+  </data>
+  <data name="&gt;&gt;radioButtonAddress.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;radioButtonAddress.Parent" xml:space="preserve">
+    <value>groupBoxSelectDataToCorect</value>
+  </data>
+  <data name="&gt;&gt;radioButtonAddress.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;radioButtonName.Name" xml:space="preserve">
+    <value>radioButtonName</value>
+  </data>
+  <data name="&gt;&gt;radioButtonName.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;radioButtonName.Parent" xml:space="preserve">
+    <value>groupBoxSelectDataToCorect</value>
+  </data>
+  <data name="&gt;&gt;radioButtonName.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="groupBoxSelectDataToCorect.Location" type="System.Drawing.Point, System.Drawing">
+    <value>18, 13</value>
+  </data>
+  <data name="groupBoxSelectDataToCorect.Size" type="System.Drawing.Size, System.Drawing">
+    <value>213, 112</value>
+  </data>
+  <data name="groupBoxSelectDataToCorect.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;groupBoxSelectDataToCorect.Name" xml:space="preserve">
+    <value>groupBoxSelectDataToCorect</value>
+  </data>
+  <data name="&gt;&gt;groupBoxSelectDataToCorect.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBoxSelectDataToCorect.Parent" xml:space="preserve">
+    <value>panelOptions</value>
+  </data>
+  <data name="&gt;&gt;groupBoxSelectDataToCorect.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="radioButtonPhoneNumber.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="radioButtonPhoneNumber.Location" type="System.Drawing.Point, System.Drawing">
+    <value>15, 88</value>
+  </data>
+  <data name="radioButtonPhoneNumber.Size" type="System.Drawing.Size, System.Drawing">
+    <value>168, 17</value>
+  </data>
+  <data name="radioButtonPhoneNumber.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="radioButtonPhoneNumber.Text" xml:space="preserve">
+    <value>Cofnij do okna Numer telefonu</value>
+  </data>
+  <data name="&gt;&gt;radioButtonPhoneNumber.Name" xml:space="preserve">
+    <value>radioButtonPhoneNumber</value>
+  </data>
+  <data name="&gt;&gt;radioButtonPhoneNumber.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;radioButtonPhoneNumber.Parent" xml:space="preserve">
+    <value>groupBoxSelectDataToCorect</value>
+  </data>
+  <data name="&gt;&gt;radioButtonPhoneNumber.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="radioButtonSurname.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="radioButtonSurname.Location" type="System.Drawing.Point, System.Drawing">
+    <value>15, 42</value>
+  </data>
+  <data name="radioButtonSurname.Size" type="System.Drawing.Size, System.Drawing">
+    <value>142, 17</value>
+  </data>
+  <data name="radioButtonSurname.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="radioButtonSurname.Text" xml:space="preserve">
+    <value>Cofnij do okna Nazwisko</value>
+  </data>
+  <data name="&gt;&gt;radioButtonSurname.Name" xml:space="preserve">
+    <value>radioButtonSurname</value>
+  </data>
+  <data name="&gt;&gt;radioButtonSurname.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;radioButtonSurname.Parent" xml:space="preserve">
+    <value>groupBoxSelectDataToCorect</value>
+  </data>
+  <data name="&gt;&gt;radioButtonSurname.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="radioButtonAddress.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="radioButtonAddress.Location" type="System.Drawing.Point, System.Drawing">
+    <value>15, 65</value>
+  </data>
+  <data name="radioButtonAddress.Size" type="System.Drawing.Size, System.Drawing">
+    <value>193, 17</value>
+  </data>
+  <data name="radioButtonAddress.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="radioButtonAddress.Text" xml:space="preserve">
+    <value>Cofnij do okna Adres zameldowania</value>
+  </data>
+  <data name="&gt;&gt;radioButtonAddress.Name" xml:space="preserve">
+    <value>radioButtonAddress</value>
+  </data>
+  <data name="&gt;&gt;radioButtonAddress.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;radioButtonAddress.Parent" xml:space="preserve">
+    <value>groupBoxSelectDataToCorect</value>
+  </data>
+  <data name="&gt;&gt;radioButtonAddress.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="radioButtonName.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="radioButtonName.Location" type="System.Drawing.Point, System.Drawing">
+    <value>15, 19</value>
+  </data>
+  <data name="radioButtonName.Size" type="System.Drawing.Size, System.Drawing">
+    <value>115, 17</value>
+  </data>
+  <data name="radioButtonName.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="radioButtonName.Text" xml:space="preserve">
+    <value>Cofnij do okna Imię</value>
+  </data>
+  <data name="&gt;&gt;radioButtonName.Name" xml:space="preserve">
+    <value>radioButtonName</value>
+  </data>
+  <data name="&gt;&gt;radioButtonName.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;radioButtonName.Parent" xml:space="preserve">
+    <value>groupBoxSelectDataToCorect</value>
+  </data>
+  <data name="&gt;&gt;radioButtonName.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;textBoxShowName.Name" xml:space="preserve">
+    <value>textBoxShowName</value>
+  </data>
+  <data name="&gt;&gt;textBoxShowName.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxShowName.Parent" xml:space="preserve">
+    <value>panelShowData</value>
+  </data>
+  <data name="&gt;&gt;textBoxShowName.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;textBoxShowPhoneNumber.Name" xml:space="preserve">
+    <value>textBoxShowPhoneNumber</value>
+  </data>
+  <data name="&gt;&gt;textBoxShowPhoneNumber.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxShowPhoneNumber.Parent" xml:space="preserve">
+    <value>panelShowData</value>
+  </data>
+  <data name="&gt;&gt;textBoxShowPhoneNumber.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;textBoxShowSurname.Name" xml:space="preserve">
+    <value>textBoxShowSurname</value>
+  </data>
+  <data name="&gt;&gt;textBoxShowSurname.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxShowSurname.Parent" xml:space="preserve">
+    <value>panelShowData</value>
+  </data>
+  <data name="&gt;&gt;textBoxShowSurname.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;textBoxShowAddress.Name" xml:space="preserve">
+    <value>textBoxShowAddress</value>
+  </data>
+  <data name="&gt;&gt;textBoxShowAddress.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxShowAddress.Parent" xml:space="preserve">
+    <value>panelShowData</value>
+  </data>
+  <data name="&gt;&gt;textBoxShowAddress.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="panelShowData.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 12</value>
+  </data>
+  <data name="panelShowData.Size" type="System.Drawing.Size, System.Drawing">
+    <value>560, 138</value>
+  </data>
+  <data name="panelShowData.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="panelShowData.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;panelShowData.Name" xml:space="preserve">
+    <value>panelShowData</value>
+  </data>
+  <data name="&gt;&gt;panelShowData.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panelShowData.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;panelShowData.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="textBoxShowAddress.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 65</value>
+  </data>
+  <data name="textBoxShowAddress.Size" type="System.Drawing.Size, System.Drawing">
+    <value>529, 20</value>
+  </data>
+  <data name="textBoxShowAddress.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;textBoxShowAddress.Name" xml:space="preserve">
+    <value>textBoxShowAddress</value>
+  </data>
+  <data name="&gt;&gt;textBoxShowAddress.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxShowAddress.Parent" xml:space="preserve">
+    <value>panelShowData</value>
+  </data>
+  <data name="&gt;&gt;textBoxShowAddress.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="textBoxShowSurname.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 39</value>
+  </data>
+  <data name="textBoxShowSurname.Size" type="System.Drawing.Size, System.Drawing">
+    <value>529, 20</value>
+  </data>
+  <data name="textBoxShowSurname.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;textBoxShowSurname.Name" xml:space="preserve">
+    <value>textBoxShowSurname</value>
+  </data>
+  <data name="&gt;&gt;textBoxShowSurname.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxShowSurname.Parent" xml:space="preserve">
+    <value>panelShowData</value>
+  </data>
+  <data name="&gt;&gt;textBoxShowSurname.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="textBoxShowPhoneNumber.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 91</value>
+  </data>
+  <data name="textBoxShowPhoneNumber.Size" type="System.Drawing.Size, System.Drawing">
+    <value>529, 20</value>
+  </data>
+  <data name="textBoxShowPhoneNumber.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;textBoxShowPhoneNumber.Name" xml:space="preserve">
+    <value>textBoxShowPhoneNumber</value>
+  </data>
+  <data name="&gt;&gt;textBoxShowPhoneNumber.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxShowPhoneNumber.Parent" xml:space="preserve">
+    <value>panelShowData</value>
+  </data>
+  <data name="&gt;&gt;textBoxShowPhoneNumber.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="textBoxShowName.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 13</value>
+  </data>
+  <data name="textBoxShowName.Size" type="System.Drawing.Size, System.Drawing">
+    <value>529, 20</value>
+  </data>
+  <data name="textBoxShowName.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;textBoxShowName.Name" xml:space="preserve">
+    <value>textBoxShowName</value>
+  </data>
+  <data name="&gt;&gt;textBoxShowName.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxShowName.Parent" xml:space="preserve">
+    <value>panelShowData</value>
+  </data>
+  <data name="&gt;&gt;textBoxShowName.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
@@ -219,10 +1108,10 @@
     <value>6, 13</value>
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>584, 162</value>
+    <value>583, 162</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Form1</value>
+    <value>Aplikacja PGS</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>FormPGS</value>

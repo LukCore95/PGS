@@ -1,34 +1,81 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace PGS
 {
     public partial class FormPGS : Form
     {
-        private string[] data;
+        Data d = new Data();
 
         public FormPGS()
         {
             InitializeComponent();
-            data = new string[4];
+            panelName.Show();
+            panelSurname.Hide();
+            panelAddress.Hide();
+            panelPhoneNumber.Hide();
+            panelOptions.Hide();
+            panelShowData.Hide();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void buttonName_Click(object sender, EventArgs e)
         {
-            data[0] = textBoxName.Text; 
+            d.setData(0, textBoxName.Text);
             panelName.Hide();
+            panelSurname.Show();
         }
 
-        private void saveName()
+        private void buttonSurname_Click(object sender, EventArgs e)
         {
-            throw new NotImplementedException();
+            d.setData(1, textBoxSurname.Text);
+            panelSurname.Hide();
+            panelAddress.Show();
+        }
+
+        private void buttonAddress_Click(object sender, EventArgs e)
+        {
+            d.setData(2, textBoxAddress.Text);
+            panelAddress.Hide();
+            panelPhoneNumber.Show();
+        }
+
+        private void buttonPhoneNumber_Click(object sender, EventArgs e)
+        {
+            d.setData(3, textBoxPhoneNumber.Text);
+            panelPhoneNumber.Hide();
+            panelOptions.Show();
+        }
+
+        private void buttonCorrectData_Click(object sender, EventArgs e)
+        {
+            panelOptions.Hide();
+            if (radioButtonName.Checked)
+            {
+                panelName.Show();
+                
+            }
+            if (radioButtonSurname.Checked)
+            {
+                panelSurname.Show();
+            }
+            if (radioButtonAddress.Checked)
+            {
+                panelAddress.Show();
+            }
+            if (radioButtonPhoneNumber.Checked)
+            {
+                panelPhoneNumber.Show();
+            }
+        }
+
+        private void buttonShowData_Click(object sender, EventArgs e)
+        {
+            panelOptions.Hide();
+            panelShowData.Show();
+            textBoxShowName.Text = d.getData(0);
+            textBoxShowSurname.Text = d.getData(1);
+            textBoxShowAddress.Text = d.getData(2);
+            textBoxShowPhoneNumber.Text = d.getData(3);
         }
     }
 }
